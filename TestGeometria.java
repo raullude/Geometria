@@ -1,3 +1,10 @@
+/**Programa para realizar
+ * las areas de las 
+ * diferentes figuras geometricas
+ * @author Raúl Luque
+ * @version 1.0 
+ */
+ 
 public class TestGeometria {
 	
 	public static void main (String args[]) {
